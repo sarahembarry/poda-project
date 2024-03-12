@@ -22,6 +22,12 @@ Principals of Data Analytics Project
 - **Link**: [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/index.html) , [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html)
 
 ---
+**Description**: Palmer Penguins Data Set
+- **Source**: [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
+- **Date Accessed**: 2024
+- **Link**: [Palmer penguins](https://archive.ics.uci.edu/dataset/690/palmer+penguins-3)
+
+---
 **Description**: Palmer Penguins Data Analysis
 - **Source**: [Abdulmalik Yakubu ](https://yabdulmalik.medium.com/)
 - **Date Published**: 2023
@@ -38,3 +44,17 @@ Principals of Data Analytics Project
 - **Source**: [geeksforgeeks.org ](https://www.geeksforgeeks.org/)
 - **Date Published**: 2024
 - **Link**: [Plotting Histogram in Python using Matplotlib](https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/)
+
+---
+**Description**: Pandas DataFrame describe() Method
+- **Source**: [www.w3schools.com/](https://www.w3schools.com/)
+- **Date Accessed**: 2024
+- **Link**: [Pandas DataFrame describe() Method](https://www.w3schools.com/python/pandas/ref_df_describe.asp)
+
+---
+**Description**: Pandas DataFrame describe() Function
+- **Source**: [www.w3resource.com](https://www.w3schools.com/)
+- **Date Accessed**: 2024
+- **Link**: [Pandas DataFrame: describe() function](https://www.w3resource.com/pandas/dataframe/dataframe-describe.php)
+
+---
