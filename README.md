@@ -2,10 +2,28 @@
 Principals of Data Analytics Project
 
 ## Table of Contents:
-1. [Project Description](#project-description)
-2. [Credits and References](#credits-and-references)
+1. [About This Project](#about-this-project)
+2. [How to get started](#how-to-get-started)
+3. [Credits and References](#credits-and-references)
 
-## Project Description
+
+## About This Project
+This repository contains my analysis of the famous Palmer Penguins dataset for:
+Module: 8634 -- PRINCIPLES OF DATA ANALYTICS. 
+In this analysis I will:
+1. Load the 'Palmer Penguins' data set into this Jupyter notebook.
+2. Suggest the types of variables that should be used to model the variables in the data set in Python.
+3. Create a barchart of an appropriate variable in the dataset.
+4. Create a histogram of an appropriate variable in the data set.
+5. Select 2 variables and provide an analysis of how correlated they are. 
+
+## How to get started 
+To get started with this repository you can go the following:
+1. Intall Python.
+2. Intall Visual Studio Code or another code editor.
+3. Clone this Repository and open in your code editor. 
+4. Run the Jupyter Notebook. 
+
 
 ## Credits and References
 
