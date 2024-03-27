@@ -27,8 +27,8 @@ To get started with this repository you can go the following:
 1. Intall Python.
 2. Intall Visual Studio Code or another code editor.
 3. Clone this Repository and open in your code editor. 
-4. Run the Jupyter Notebook. 
-or
+4. Run the Jupyter Notebook. <br /><br />
+or <br /><br />
 Use Google Colab
 <a target="_blank" href="https://colab.research.google.com/github/sarahembarry/poda-project">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -84,5 +84,23 @@ Use Google Colab
 - **Source**: [www.w3resource.com](https://www.w3schools.com/)
 - **Date Accessed**: 2024
 - **Link**: [Pandas DataFrame: describe() function](https://www.w3resource.com/pandas/dataframe/dataframe-describe.php)
+
+---
+**Description**: Statistics Percentiles
+- **Source**: [www.w3resource.com](https://www.w3schools.com/)
+- **Date Accessed**: 2024
+- **Link**: [Data Science - Statistics Percentiles](https://www.w3schools.com/datascience/ds_stat_percentiles.asp)
+
+---
+**Description**: Quartiles
+- **Source**: [www.en.wikipedia.org](https://en.wikipedia.org/)
+- **Date Accessed**: 2024
+- **Link**: [Quartile](https://en.wikipedia.org/wiki/Quartile)
+
+---
+**Description**: Standard deviation
+- **Source**: [www.en.wikipedia.org](https://en.wikipedia.org/)
+- **Date Accessed**: 2024
+- **Link**: [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
 
 ---
