@@ -2,10 +2,15 @@
 Principals of Data Analytics Project
 
 ## Table of Contents:
-1. [About This Project](#about-this-project)
-2. [How to get started](#how-to-get-started)
-3. [Credits and References](#credits-and-references)
+1. [About Me](#about-me)
+2. [About This Project](#about-this-project)
+3. [How to get started](#how-to-get-started)
+4. [Credits and References](#credits-and-references)
 
+
+
+## About me
+I'm Sarah Barry, currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Athlone Technical University (ATU) in Galway. This repository is dedicated to my project for the module 23-24: 8634 - Principles of Data Analytics.
 
 ## About This Project
 This repository contains my analysis of the famous Palmer Penguins dataset for:
@@ -23,6 +28,11 @@ To get started with this repository you can go the following:
 2. Intall Visual Studio Code or another code editor.
 3. Clone this Repository and open in your code editor. 
 4. Run the Jupyter Notebook. 
+or
+Use Google Colab
+<a target="_blank" href="https://colab.research.google.com/github/sarahembarry/poda-project">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 ## Credits and References
