@@ -104,3 +104,15 @@ Use Google Colab
 - **Link**: [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
 
 ---
+**Description**: Quantitive and Categorical Variables
+- **Source**: [www.codecademy.com](https://www.codecademy.com/)
+- **Date Accessed**: 2024
+- **Link**: [Variable Types for Data Science](https://www.codecademy.com/learn/dsf-exploratory-data-analysis-python/modules/dsf-variable-types-for-data-science/cheatsheet)
+
+---
+**Description**: Types of variables
+- **Source**: [www150.statcan.gc.ca](https://www150.statcan.gc.ca/)
+- **Date Accessed**: 2024
+- **Link**: [Types of variables](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-eng.htm)
+
+---
