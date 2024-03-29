@@ -90,7 +90,11 @@ Use Google Colab
 - **Source**: [www.w3resource.com](https://www.w3schools.com/)
 - **Date Accessed**: 2024
 - **Link**: [Data Science - Statistics Percentiles](https://www.w3schools.com/datascience/ds_stat_percentiles.asp)
-
+---
+**Description**: Float Data Types
+- **Source**: [www.w3resource.com](https://www.w3schools.com/)
+- **Date Accessed**: 2024
+- **Link**: [Go Float Data Types](https://www.w3schools.com/go/go_float_data_type.php#:~:text=The%20float%20data%20types%20are,%2C%20%2D2.34%2C%20or%203597.34987.)
 ---
 **Description**: Quartiles
 - **Source**: [www.en.wikipedia.org](https://en.wikipedia.org/)
@@ -114,5 +118,35 @@ Use Google Colab
 - **Source**: [www150.statcan.gc.ca](https://www150.statcan.gc.ca/)
 - **Date Accessed**: 2024
 - **Link**: [Types of variables](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-eng.htm)
+
+---
+**Description**: Discrete vs. Continuous Variables
+- **Source**: [www.articles.outlier.org](https://articles.outlier.org/)
+- **Date Accessed**: 2024
+- **Link**: [Discrete vs. Continuous Variables: Differences Explained](https://articles.outlier.org/discrete-vs-continuous-variables#section-what-is-a-discrete-variable)
+
+---
+**Description**: Binomial Variables 
+- **Source**: [www.aonline.stat.psu.edu](https://online.stat.psu.edu/)
+- **Date Accessed**: 2024
+- **Link**: [3.2.2 - Binomial Random Variables](https://online.stat.psu.edu/stat500/lesson/3/3.2/3.2.2#:~:text=A%20binary%20variable%20is%20a,of%20a%20binary%20categorical%20variable.)
+
+---
+**Description**: Python Strings
+- **Source**: [www.programiz.com](https://www.programiz.com/)
+- **Date Accessed**: 2024
+- **Link**: [Python Strings](https://www.programiz.com/python-programming/string#google_vignette)
+
+---
+**Description**: Unique values in Pandas data frame
+- **Source**: [www.geeksforgeeks.org](https://www.geeksforgeeks.org/)
+- **Date Accessed**: 2024
+- **Link**: [Get unique values from a column in Pandas DataFrame](https://www.geeksforgeeks.org/get-unique-values-from-a-column-in-pandas-dataframe/)
+
+---
+**Description**: Subtypes in data frame object columns
+- **Source**: [stackoverflow.com](https://stackoverflow.com/)
+- **Date Accessed**: 2024
+- **Link**: [How could I detect subtypes in pandas object columns?](https://stackoverflow.com/questions/51817742/how-could-i-detect-subtypes-in-pandas-object-columns)
 
 ---
