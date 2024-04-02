@@ -1,5 +1,5 @@
 # poda-project
-Principals of Data Analytics Project
+Principles of Data Analytics Project
 
 ## Table of Contents:
 1. [About Me](#about-me)
@@ -24,9 +24,9 @@ In this analysis I will:
 
 ## How to get started 
 To get started with this repository you can go the following:
-1. Intall Python.
-2. Intall Visual Studio Code or another code editor.
-3. Clone this Repository and open in your code editor. 
+1. Install Python.
+2. Install Visual Studio Code or another code editor.
+3. Clone this Repository and open it in your code editor. 
 4. Run the Jupyter Notebook. <br /><br />
 or <br /><br />
 Use Google Colab
@@ -108,7 +108,7 @@ Use Google Colab
 - **Link**: [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
 
 ---
-**Description**: Quantitive and Categorical Variables
+**Description**: Quantitative and Categorical Variables
 - **Source**: [www.codecademy.com](https://www.codecademy.com/)
 - **Date Accessed**: 2024
 - **Link**: [Variable Types for Data Science](https://www.codecademy.com/learn/dsf-exploratory-data-analysis-python/modules/dsf-variable-types-for-data-science/cheatsheet)
