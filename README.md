@@ -150,3 +150,12 @@ Use Google Colab
 - **Link**: [How could I detect subtypes in pandas object columns?](https://stackoverflow.com/questions/51817742/how-could-i-detect-subtypes-in-pandas-object-columns)
 
 ---
+**Description**: Pandas DataFrame dropna() Method
+- **Source**: [www.w3schools.com/](https://www.w3schools.com/)
+- **Date Accessed**: 2024
+- **Link**: [Pandas DataFrame dropna() Method](https://www.w3schools.com/python/pandas/ref_df_dropna.asp)
+---
+**Description**: Correlation in Python
+- **Source**: [Zach Bobbitt/statology.org](https://www.statology.org/about/)
+- **Date Published**: 2020
+- **Link**: [How to Calculate Correlation in Python](https://www.statology.org/correlation-in-python/)
