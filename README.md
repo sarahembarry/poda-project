@@ -159,3 +159,14 @@ Use Google Colab
 - **Source**: [Zach Bobbitt/statology.org](https://www.statology.org/about/)
 - **Date Published**: 2020
 - **Link**: [How to Calculate Correlation in Python](https://www.statology.org/correlation-in-python/)
+---
+**Description**: Find missing columns in df in with Pandas
+- **Source**: [cmdlinetips.com](https://cmdlinetips.com/)
+- **Date Published**: 2020
+- **Link**: [How To Get Number of Missing Values in Each Column in Pandas](https://cmdlinetips.com/2020/11/how-to-get-number-of-missing-values-in-each-column-in-pandas/)
+---
+**Description**:Imputation 
+- **Source**: [Eugenio "Jay" Zuccarelli](https://jayzuccarelli.medium.com/)
+- **Date Published**: 2020
+- **Link**: [The Dos and Don’ts of Imputation](https://towardsdatascience.com/the-dos-and-donts-of-imputation-d89d72a26a58)
+---
