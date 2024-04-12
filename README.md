@@ -175,3 +175,18 @@ Use Google Colab
 - **Date Published**: 2021
 - **Link**: [https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/](https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/)
 ---
+**Description**:Seaborn Heatmaps
+- **Source**: [Joleen Bothma/www.datacamp.com](https://www.datacamp.com/portfolio/joleen-bothma)
+- **Date Published**: 2024
+- **Link**: [Seabourn Heatmaps](https://www.datacamp.com/tutorial/seaborn-heatmaps)
+---
+**Description**:Seaborn Heatmaps Formatting
+- **Source**: [Bibor Szabo](https://medium.com/@szabo.bibor)
+- **Date Published**: 2020
+- **Link**: [How to Create a Seaborn Correlation Heatmap in Python?](https://medium.com/@szabo.bibor/how-to-create-a-seaborn-correlation-heatmap-in-python-834c0686b88e)
+---
+**Description**:Python Scatter Plot 
+- **Source**: [machinelearningplus.com](https://www.machinelearningplus.com/)
+- **Date Accessed**: 2024
+- **Link**: [Python Scatter Plot – How to visualize relationship between two numeric features](https://www.machinelearningplus.com/plots/python-scatter-plot/)
+---
