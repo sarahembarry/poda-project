@@ -170,3 +170,8 @@ Use Google Colab
 - **Date Published**: 2020
 - **Link**: [The Dos and Don’ts of Imputation](https://towardsdatascience.com/the-dos-and-donts-of-imputation-d89d72a26a58)
 ---
+**Description**:Correlation Matrix in Pandas
+- **Source**: [www.geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/)
+- **Date Published**: 2021
+- **Link**: [https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/](https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/)
+---
