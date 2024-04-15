@@ -190,3 +190,13 @@ Use Google Colab
 - **Date Accessed**: 2024
 - **Link**: [Python Scatter Plot – How to visualize relationship between two numeric features](https://www.machinelearningplus.com/plots/python-scatter-plot/)
 ---
+**Description**:Interpreting Correlation Coefficients
+- **Source**: [statisticsbyjim.com](https://statisticsbyjim.com/)
+- **Date Accessed**: 2024
+- **Link**: [Interpreting Correlation Coefficients](https://statisticsbyjim.com/basics/correlations/#:~:text=Correlation%20Coefficient%20%3D%200.8%3A%20A%20fairly,change%20in%20a%20specific%20direction.)
+---
+**Description**:How to Create a Scatterplot with a Regression Line in Python
+- **Source**: [statisticsbyjim.com](https://www.statology.org/)
+- **Date Accessed**: 2024
+- **Link**: [How to Create a Scatterplot with a Regression Line in Python](https://www.statology.org/scatterplot-with-regression-line-python/)
+---
