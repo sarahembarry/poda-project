@@ -200,3 +200,13 @@ Use Google Colab
 - **Date Accessed**: 2024
 - **Link**: [How to Create a Scatterplot with a Regression Line in Python](https://www.statology.org/scatterplot-with-regression-line-python/)
 ---
+**Description**:Scatter plot by category
+- **Source**: [Alex Labuda](https://www.kaggle.com/alabuda)
+- **Date Accessed**: 2024
+- **Link**: [Classification and EDA - Palmer Penguins](https://www.kaggle.com/code/alabuda/classification-and-eda-palmer-penguins)
+---
+**Description**:Regression line seabourn 
+- **Source**: [stackoverflow.com](https://stackoverflow.com/)
+- **Date Accessed**: 2024
+- **Link**: [How to plot one linear regression scatterplot for multiple columns in a dataframe with seaborn?](https://stackoverflow.com/questions/66084983/how-to-plot-one-linear-regression-scatterplot-for-multiple-columns-in-a-datafram)
+---
