@@ -5,7 +5,7 @@ Principles of Data Analytics Project
 1. [About Me](#about-me)
 2. [About This Project](#about-this-project)
 3. [How to get started](#how-to-get-started)
-4. [Credits and References](#credits-and-references)
+4. [Sources and References](#sources-and-references)
 
 
 
@@ -210,3 +210,33 @@ Use Google Colab
 - **Date Accessed**: 2024
 - **Link**: [How to plot one linear regression scatterplot for multiple columns in a dataframe with seaborn?](https://stackoverflow.com/questions/66084983/how-to-plot-one-linear-regression-scatterplot-for-multiple-columns-in-a-datafram)
 ---
+**Description**:Referenced Palmer penguins analysis
+- **Source**: [Shah Nawaz]
+- **Date Accessed**: 2024
+- **Link**: [Correlations and Scatterplots - Penguins dataset](https://rpubs.com/shahworld/scatter)
+---
+**Description**:Referenced Palmer penguins analysis
+- **Source**: [Taylor]
+- **Date Accessed**: 2024
+- **Link**: [Palmer Penguins Playground](https://rpubs.com/TEHoule/PalmerPenguinPlayground)
+---
+**Description**:Referenced Palmer penguins analysis
+- **Source**: [Jingyi Fang](https://allysonf.medium.com/)
+- **Date Accessed**: 2024
+- **Link**: [Exploratory Data Analysis on Palmer Archipelago (Antarctica) Penguin Data](https://allysonf.medium.com/exploratory-data-analysis-on-palmer-archipelago-antarctica-penguin-data-41ff3e6efeda)
+---
+**Description**:Referenced Palmer penguins analysis
+- **Source**: [Allison Horst](https://allisonhorst.github.io/)
+- **Date Accessed**: 2024
+- **Link**: [Example graphs using the penguins data](https://allisonhorst.github.io/palmerpenguins/articles/examples.html)
+---
+**Description**: Chinstrap penguin
+- **Source**: [www.en.wikipedia.org](https://en.wikipedia.org/)
+- **Date Accessed**: 2024
+- **Link**: [Chinstrap penguin](https://en.wikipedia.org/wiki/Chinstrap_penguin)
+
+---
+**Description**: Gentoo penguins
+- **Source**: [www.en.wikipedia.org](https://en.wikipedia.org/wiki/)
+- **Date Accessed**: 2024
+- **Link**: [Standard deviation](https://en.wikipedia.org/wiki/Gentoo_penguin)
