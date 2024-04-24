@@ -16,11 +16,11 @@ I'm Sarah Barry, currently pursuing a Higher Diploma in Science in Computing wit
 This repository contains my analysis of the famous Palmer Penguins dataset for:
 Module: 8634 -- PRINCIPLES OF DATA ANALYTICS. 
 In this analysis I will:
-1. Load the 'Palmer Penguins' data set into this Jupyter notebook.
-2. Suggest the types of variables that should be used to model the variables in the data set in Python.
-3. Create a barchart of an appropriate variable in the dataset.
-4. Create a histogram of an appropriate variable in the data set.
-5. Select 2 variables and provide an analysis of how correlated they are. 
+- Load the 'Palmer Penguins' data set into this Jupyter notebook.
+- Suggest the types of variables that should be used to model the variables in the data set in Python.
+- Create a barchart of an appropriate variable in the dataset.
+- Create a histogram of an appropriate variable in the data set.
+- Select 2 variables and provide an analysis of how correlated they are. 
 
 ## How to get started 
 To get started with this repository you can go the following:
@@ -240,3 +240,13 @@ Use Google Colab
 - **Source**: [www.en.wikipedia.org](https://en.wikipedia.org/wiki/)
 - **Date Accessed**: 2024
 - **Link**: [Standard deviation](https://en.wikipedia.org/wiki/Gentoo_penguin)
+---
+**Description**: Gentoo penguins
+- **Source**: [Elspeth Dehnert via Scientific American](https://www.scientificamerican.com/author/elspeth-dehnert/)
+- **Date Accessed**: 2024
+- **Link**: [Gentoo Penguins Thrive, While Adelies and Chinstraps Falter in a Climate-Changed World](https://www.scientificamerican.com/article/gentoo-penguins-thrive-while-adelies-and-chinstraps-falter-in-a-climate-changed-world/)
+---
+**Description**: Gentoo penguins
+- **Source**: [oceanwide-expeditions.com](https://oceanwide-expeditions.com/blog/meet-all-6-antarctic-penguin-species)
+- **Date Accessed**: 2024
+- **Link**: [The Eight Great Penguin Species of Antarctica](https://oceanwide-expeditions.com/blog/meet-all-6-antarctic-penguin-species)
