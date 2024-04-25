@@ -10,17 +10,17 @@ Principles of Data Analytics Project
 
 
 ## About me
-I'm Sarah Barry, currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Athlone Technical University (ATU) in Galway. This repository is dedicated to my project for the module 23-24: 8634 - Principles of Data Analytics.
+My name is Sarah Barry, I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Athlone Technical University (ATU) in Galway. This repository is dedicated to my project for the module : 8634 - Principles of Data Analytics.
 
 ## About This Project
 This repository contains my analysis of the famous Palmer Penguins dataset for:
-Module: 8634 -- PRINCIPLES OF DATA ANALYTICS. 
-In this analysis I will:
-- Load the 'Palmer Penguins' data set into this Jupyter notebook.
-- Suggest the types of variables that should be used to model the variables in the data set in Python.
-- Create a barchart of an appropriate variable in the dataset.
-- Create a histogram of an appropriate variable in the data set.
-- Select 2 variables and provide an analysis of how correlated they are. 
+Module: 8634 - Principles of Data Analytics. 
+In this analysis I have:
+- Loaded the 'Palmer Penguins' data set into this Jupyter notebook.
+- Suggested the types of variables that should be used to model the variables in the data set.
+- Created a barchart of the variable `island`.
+- Created a histogram of `bill_length_mm`.
+- Selected the variables `body_weight_g` and `flipper_length_mm` and provided an analysis on how correlated they are. 
 
 ## How to get started 
 To get started with this repository you can go the following:
