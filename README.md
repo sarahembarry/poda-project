@@ -10,7 +10,7 @@ Principles of Data Analytics Project
 
 
 ## About me
-My name is Sarah Barry, I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Athlone Technical University (ATU) in Galway. This repository is dedicated to my project for the module : 8634 - Principles of Data Analytics.
+My name is Sarah Barry, I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technical University (ATU) in Galway. This repository is dedicated to my project for the module : 8634 - Principles of Data Analytics.
 
 ## About This Project
 This repository contains my analysis of the famous Palmer Penguins dataset for:
