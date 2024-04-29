@@ -2,40 +2,39 @@
 Principles of Data Analytics Project
 
 ## Table of Contents:
-1. [About Me](#about-me)
-2. [About This Project](#about-this-project)
+1. [About me](#about-me)
+2. [About this project](#about-this-project)
 3. [How to get started](#how-to-get-started)
 4. [Sources and References](#sources-and-references)
 
 
 
 ## About me
-My name is Sarah Barry, I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technical University (ATU) in Galway. This repository is dedicated to my project for the module : 8634 - Principles of Data Analytics.
+My name is Sarah Barry, I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technical University (ATU) in Galway. This repository is dedicated to my project for the module: 8634 - Principles of Data Analytics.
 
-## About This Project
-This repository contains my analysis of the famous Palmer Penguins dataset for:
-Module: 8634 - Principles of Data Analytics. 
+## About this project
+This repository contains my analysis of the famous Palmer Penguins dataset for
+module: 8634 - Principles of Data Analytics. 
 In this analysis I have:
-- Loaded the 'Palmer Penguins' data set into this Jupyter notebook.
+- Loaded the 'Palmer Penguins' data set into the Jupyter Notebook.
 - Suggested the types of variables that should be used to model the variables in the data set.
 - Created a barchart of the variable `island`.
 - Created a histogram of `bill_length_mm`.
-- Selected the variables `body_weight_g` and `flipper_length_mm` and provided an analysis on how correlated they are. 
+- Selected the variables `body_weight_g` and `flipper_length_mm` and provided an analysis on their correlation. 
 
 ## How to get started 
-To get started with this repository you can go the following:
+To begin with this repository you can do the following:
 1. Install Python.
 2. Install Visual Studio Code or another code editor.
-3. Clone this Repository and open it in your code editor. 
+3. Clone this repository and open it in your code editor. 
 4. Run the Jupyter Notebook. <br /><br />
-or <br /><br />
-Use Google Colab
+or use Google Colab
 <a target="_blank" href="https://colab.research.google.com/github/sarahembarry/poda-project">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
-## Credits and References
+## Sources and References
 
 
 **Description**: Palmer Penguins Data Analysis
@@ -45,9 +44,9 @@ Use Google Colab
 ---
 
 **Description**: Palmer Penguins Data Analysis
-- **Source**: [Allison Horst ](https://allisonhorst.com/),[Allison Hill ](https://www.apreshill.com/),[Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)
+- **Source**: [Allison Horst ](https://allisonhorst.com/), [Allison Hill ](https://www.apreshill.com/), [Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)
 - **Date Accessed**: 2024
-- **Link**: [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/index.html) , [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html)
+- **Link**: [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/index.html), [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html)
 
 ---
 **Description**: Palmer Penguins Data Set
@@ -173,10 +172,10 @@ Use Google Colab
 **Description**:Correlation Matrix in Pandas
 - **Source**: [www.geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/)
 - **Date Published**: 2021
-- **Link**: [https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/](https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/)
+- **Link**: [How to create a correlation matrix using Pandas](https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/)
 ---
 **Description**:Seaborn Heatmaps
-- **Source**: [Joleen Bothma/www.datacamp.com](https://www.datacamp.com/portfolio/joleen-bothma)
+- **Source**: [Joleen Bothma/datacamp.com](https://www.datacamp.com/portfolio/joleen-bothma)
 - **Date Published**: 2024
 - **Link**: [Seabourn Heatmaps](https://www.datacamp.com/tutorial/seaborn-heatmaps)
 ---
@@ -205,7 +204,7 @@ Use Google Colab
 - **Date Accessed**: 2024
 - **Link**: [Classification and EDA - Palmer Penguins](https://www.kaggle.com/code/alabuda/classification-and-eda-palmer-penguins)
 ---
-**Description**:Regression line seabourn 
+**Description**:Regression line Seabourn 
 - **Source**: [stackoverflow.com](https://stackoverflow.com/)
 - **Date Accessed**: 2024
 - **Link**: [How to plot one linear regression scatterplot for multiple columns in a dataframe with seaborn?](https://stackoverflow.com/questions/66084983/how-to-plot-one-linear-regression-scatterplot-for-multiple-columns-in-a-datafram)
